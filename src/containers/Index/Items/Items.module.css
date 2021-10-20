@@ -1,0 +1,19 @@
+.Items {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  height: 500px;
+  border-radius: 0.6rem;
+  background-color: #2d2a3d;
+}
+
+.Items-Header {
+  height: 60px;
+  border-top-left-radius: 0.6rem;
+  border-top-right-radius: 0.6rem;
+  background-color: #4c4665;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-weight: bold;
+}

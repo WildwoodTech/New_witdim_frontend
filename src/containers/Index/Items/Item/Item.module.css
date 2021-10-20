@@ -1,0 +1,9 @@
+.Item {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #9c9b9a;
+}
